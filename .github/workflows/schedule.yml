@@ -1,10 +1,7 @@
 name: Update gist with WakaTime stats
 on:
   schedule:
-    - cron: "* * * * *"
-  push:
-    branches:
-      - test
+    - cron: "0 0 * * MON"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -44,7 +41,7 @@ jobs:
       - name: test2
         run: git remote -v
       - name: push code to main
-        run: git push origin test:main
+        run: git push origin main
 
       - name: Keepalive Workflow
         uses: gautamkrishnar/keepalive-workflow@1.0.9
