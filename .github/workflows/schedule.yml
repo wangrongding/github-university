@@ -1,5 +1,7 @@
 name: Update README
-on:
+on: # 触发时机
+  push:
+    branches: [mian] # mian有更新
   schedule:
     - cron: "0 0 * * MON"
 jobs:
@@ -25,23 +27,18 @@ jobs:
       - name: Update README
         run: node index.js ${{ secrets.GIT_UPDATE_README_TOKEN }}
 
-      # 配置 git
-      - name: config git
-        run: git config --global user.email "wangrongding@qq.com" && git config --global user.name "wangrongding"
+      - name: Show branch and remote
+        run: |
+          git branch
+          git remote -v
 
-      - name: Set git remote url
-        run: git remote set-url origin https://github.com/wangrongding/github-university.git
-
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "Update README"
-      - name: test1
-        run: git branch
-      - name: test2
-        run: git remote -v
-      - name: push code to main
-        run: git push origin main
+      - name: Commit and push if changed # 将README.md更新到仓库
+        run: |
+          git config --global user.email "wangrongding@qq.com"
+          git config --global user.name "wangrongding"
+          git add .
+          git commit -m "Updated Readme" || exit 
+          git push
 
       - name: Keepalive Workflow
         uses: gautamkrishnar/keepalive-workflow@1.0.9
