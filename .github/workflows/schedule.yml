@@ -30,5 +30,13 @@ jobs:
       - name: Update README
         run: node index.js ${{ secrets.GIT_UPDATE_README_TOKEN }}
 
+      - name: Update Readme
+        # https://github.com/changesets/action
+        uses: changesets/action@v1
+        with:
+          commit: "chore: update versions"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_UPDATE_README_TOKEN }}
+
       - name: Keepalive Workflow
         uses: gautamkrishnar/keepalive-workflow@1.0.9
