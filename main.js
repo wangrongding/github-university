@@ -22,6 +22,7 @@ export async function writeFile(list) {
   list.forEach((item) => {
     content += `| [${item.name}](${item.html_url}) | stars:${item.stargazers_count}⭐️ | ${item.description} | \n`;
   });
+  // 追加内容
   fs.appendFile("./README.md", content, (err) => {
     if (err) {
       console.log("出错");
@@ -31,10 +32,11 @@ export async function writeFile(list) {
 
 export async function getStarPages(token) {
   const res = await getStarList(token, { per_page: 1 });
+  // 获取star总数
   const total = res.headers.link
     .split('>; rel="last"')[0]
     .split("per_page=1&page=")[2];
-
+  // star总页数
   const pages = Math.ceil(total / 100);
   let starList = [];
   for (let i = 0; i < pages; i++) {
@@ -42,6 +44,7 @@ export async function getStarPages(token) {
     console.log(`🚀🚀page${i}✅`);
     starList = starList.concat(tempRes.data);
   }
+  // 总star数
   console.log("🚀🚀🚀 / starList", starList.length);
   await writeFile(starList);
 }
