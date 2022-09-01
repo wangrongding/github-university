@@ -1,7 +1,9 @@
 name: Update README
 on: # 触发时机
   push:
-    branches: [mian] # mian有更新
+    branches: [$default-branch]
+  pull_request:
+    branches: [$default-branch]
   schedule:
     - cron: "0 0 * * MON"
 jobs:
