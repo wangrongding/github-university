@@ -1,0 +1,24 @@
+{
+  "name": "github-university",
+  "version": "1.0.0",
+  "description": "Collect the best learning resources in github.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangrongding/github-university.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangrongding/github-university/issues"
+  },
+  "homepage": "https://github.com/wangrongding/github-university#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
