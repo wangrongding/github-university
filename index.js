@@ -1,4 +1,3 @@
-import { copyToReadme, getStarPages } from "./main.js";
+import { start } from "./main.js";
 
-copyToReadme();
-getStarPages(process.argv[2]);
+start(process.argv[2]);
