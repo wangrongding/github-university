@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout code repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
 
       - name: Setup node.js
         uses: actions/setup-node@v2
