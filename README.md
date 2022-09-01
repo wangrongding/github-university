@@ -1,20 +1,23 @@
 # Github University
 
-Aggregate quality learning resources, useful tools, interesting projects in github...
+Aggregate quality learning resources, useful tools, interesting projects in github...  
 Updated every Monday.
 
-汇总 github 中优质的学习资源，好用的工具，有趣的项目...
+汇总 github 中优质的学习资源，好用的工具，有趣的项目...  
 每周一更新。
 
-> 开发中，后续会加上分类
+> 开发中，后续会加上分类  
 > WIP, will add categories later
 
 ## 优质的学习资源，好用的工具，有趣的项目...
 
-| name/url              | desc         | stars                     |
-| --------------------- | ------------ | ------------------------- |
-| [github-university]() | stars: ∞ ⭐️ | Haha, this is the project |
-| [github-university](https://github.com/wangrongding/github-university) | stars:2⭐️ | null | 
+| name/url                                                               | stars        | desc                      |
+| ---------------------------------------------------------------------- | ------------ | ------------------------- |
+| [github-university](https://github.com/wangrongding/github-university) | stars: ∞ ⭐️ | Haha, this is the project |
+| [liveblocks](https://github.com/liveblocks/liveblocks) | stars:869⭐️ | This repository is a set of open-source packages for building performant and reliable multiplayer experiences. | 
+| [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | stars:18989⭐️ | 中国程序员容易发音错误的单词 | 
+| [webdriverio](https://github.com/webdriverio/webdriverio) | stars:7685⭐️ | Next-gen browser and mobile automation test framework for Node.js | 
+| [github-university](https://github.com/wangrongding/github-university) | stars:2⭐️ | Aggregate quality learning resources, useful tools, interesting projects in github... Updated every Monday. | 
 | [gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) | stars:3327⭐️ | :books: Go语言圣经中文版 🇨🇳 | 
 | [squoosh](https://github.com/GoogleChromeLabs/squoosh) | stars:17292⭐️ | Make images smaller using best-in-class codecs, right in the browser. | 
 | [node-gify](https://github.com/tj/node-gify) | stars:292⭐️ | Convert videos to gifs using ffmpeg and gifsicle | 
@@ -26,7 +29,7 @@ Updated every Monday.
 | [prm-cli](https://github.com/wangrongding/prm-cli) | stars:2⭐️ | Quickly switch the registry of the package management tool.(快速切换包管理工具的镜像源) | 
 | [bases](https://github.com/tsconfig/bases) | stars:2675⭐️ | Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment | 
 | [unsplash-js](https://github.com/unsplash/unsplash-js) | stars:1789⭐️ | 🤖 A server-side JavaScript wrapper for the Unsplash API | 
-| [swr](https://github.com/vercel/swr) | stars:23773⭐️ | React Hooks for Data Fetching | 
+| [swr](https://github.com/vercel/swr) | stars:23775⭐️ | React Hooks for Data Fetching | 
 | [socket.io](https://github.com/socketio/socket.io) | stars:56559⭐️ | Realtime application framework (Node.JS server) | 
 | [art-template](https://github.com/aui/art-template) | stars:9687⭐️ | High performance JavaScript templating engine | 
 | [ws](https://github.com/websockets/ws) | stars:18669⭐️ | Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js | 
@@ -38,25 +41,25 @@ Updated every Monday.
 | [WTFEthers](https://github.com/WTFAcademy/WTFEthers) | stars:137⭐️ | 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。 | 
 | [pangu.js](https://github.com/vinta/pangu.js) | stars:3584⭐️ | Paranoid text spacing in JavaScript | 
 | [rust](https://github.com/rust-lang/rust) | stars:71312⭐️ | Empowering everyone to build reliable and efficient software. | 
-| [docusaurus](https://github.com/facebook/docusaurus) | stars:37502⭐️ | Easy to maintain open source documentation websites. | 
+| [docusaurus](https://github.com/facebook/docusaurus) | stars:37504⭐️ | Easy to maintain open source documentation websites. | 
 | [tauri](https://github.com/tauri-apps/tauri) | stars:49435⭐️ | Build smaller, faster, and more secure desktop applications with a web frontend. | 
-| [PPet](https://github.com/zenghongtu/PPet) | stars:1558⭐️ | 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux） | 
+| [PPet](https://github.com/zenghongtu/PPet) | stars:1559⭐️ | 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux） | 
 | [zustand](https://github.com/pmndrs/zustand) | stars:21115⭐️ | 🐻 Bear necessities for state management in React | 
 | [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | stars:6703⭐️ | 健康学习到150岁 - 人体系统调优不完全指南 | 
 | [console-ban](https://github.com/fz6m/console-ban) | stars:602⭐️ | Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies. | 
 | [weixin-fe](https://github.com/fz6m/weixin-fe) | stars:144⭐️ | 2022 年前端圈微信公众号合集 | 
 | [awesome-gis](https://github.com/sshuair/awesome-gis) | stars:3019⭐️ | 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more. | 
-| [chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) | stars:655⭐️ | 中国前端开发者。 | 
+| [chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) | stars:656⭐️ | 中国前端开发者。 | 
 | [masscan](https://github.com/robertdavidgraham/masscan) | stars:19509⭐️ | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 
-| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | stars:149528⭐️ | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | stars:149529⭐️ | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 
 | [react-responsive](https://github.com/yocontra/react-responsive) | stars:6334⭐️ | CSS media queries in react - for responsive design, and more. | 
 | [mjml](https://github.com/mjmlio/mjml) | stars:14222⭐️ | MJML: the only framework that makes responsive-email easy | 
 | [vssue](https://github.com/meteorlxy/vssue) | stars:664⭐️ | :mailbox: A Vue-powered Issue-based Comment Plugin | 
-| [wujie](https://github.com/Tencent/wujie) | stars:1045⭐️ | 极致的微前端框架 | 
+| [wujie](https://github.com/Tencent/wujie) | stars:1047⭐️ | 极致的微前端框架 | 
 | [canvas-special](https://github.com/bxm0927/canvas-special) | stars:1960⭐️ | :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。 | 
 | [CyberChef](https://github.com/gchq/CyberChef) | stars:17420⭐️ | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | 
 | [100ms-web](https://github.com/100mslive/100ms-web) | stars:87⭐️ | Build powerful live applications in hours | 
-| [astro](https://github.com/withastro/astro) | stars:18598⭐️ | Build faster websites with Astro's next-gen island architecture 🏝✨ | 
+| [astro](https://github.com/withastro/astro) | stars:18600⭐️ | Build faster websites with Astro's next-gen island architecture 🏝✨ | 
 | [grex-js](https://github.com/pemistahl/grex-js) | stars:144⭐️ | A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases | 
 | [million](https://github.com/aidenybai/million) | stars:5200⭐️ | Virtual DOM into the future! 🔟🔼6️⃣ | 
 | [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) | stars:473⭐️ | A javascript-only SVG to PDF conversion utility that runs in the browser. Brought to you by yWorks - the diagramming experts | 
@@ -77,7 +80,7 @@ Updated every Monday.
 | [editly](https://github.com/mifi/editly) | stars:3517⭐️ | Slick, declarative command line video editing & API | 
 | [colorgrad-js](https://github.com/mazznoer/colorgrad-js) | stars:153⭐️ | High-performance Javascript color gradient library powered by Rust + WebAssembly | 
 | [uebersicht](https://github.com/felixhageloh/uebersicht) | stars:3822⭐️ | ˈyːbɐˌzɪçt | 
-| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) | stars:35275⭐️ | A Windows/macOS GUI based on Clash | 
+| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) | stars:35276⭐️ | A Windows/macOS GUI based on Clash | 
 | [vap](https://github.com/Tencent/vap) | stars:3163⭐️ | VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。 | 
 | [Rss-Reader](https://github.com/peterroe/Rss-Reader) | stars:63⭐️ | Desktop Rss reader, based on Vue3 and tauri-app, free and open source | 
 | [huginn](https://github.com/huginn/huginn) | stars:36337⭐️ | Create agents that monitor and act on your behalf.  Your agents are standing by! | 
@@ -95,13 +98,13 @@ Updated every Monday.
 | [Bob](https://github.com/ripperhe/Bob) | stars:6443⭐️ | Bob 是一款 macOS 平台翻译和 OCR 软件。 | 
 | [frontend-park](https://github.com/wangrongding/frontend-park) | stars:72⭐️ | 哈喽大家好~我是荣顶！这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。 | 
 | [biyi](https://github.com/biyidev/biyi) | stars:844⭐️ | Biyi (比译) is a convenient translation and dictionary app written in Flutter.  | 
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | stars:209021⭐️ | Roadmap to becoming a developer in 2022 | 
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | stars:209025⭐️ | Roadmap to becoming a developer in 2022 | 
 | [docker_practice](https://github.com/yeasy/docker_practice) | stars:21048⭐️ | Learn and understand Docker&Container technologies, with real DevOps practice! | 
 | [node-interview](https://github.com/ElemeFE/node-interview) | stars:10251⭐️ | How to pass the Node.js interview of ElemeFE. | 
-| [rustlings](https://github.com/rust-lang/rustlings) | stars:28992⭐️ | :crab: Small exercises to get you used to reading and writing Rust code! | 
+| [rustlings](https://github.com/rust-lang/rustlings) | stars:28993⭐️ | :crab: Small exercises to get you used to reading and writing Rust code! | 
 | [rust-weekly](https://github.com/rustlang-cn/rust-weekly) | stars:569⭐️ | Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 | 
 | [GithubCity](https://github.com/honzaap/GithubCity) | stars:836⭐️ | Create a 3D city from your GitHub contributions 🏙 | 
-| [trpc](https://github.com/trpc/trpc) | stars:11953⭐️ | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | 
+| [trpc](https://github.com/trpc/trpc) | stars:11956⭐️ | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | 
 | [This-repo-has-1288-stars](https://github.com/fslongjin/This-repo-has-1288-stars) | stars:1288⭐️ | 这个仓库有1288个star，不信你试试 | 
 | [dom-to-image](https://github.com/tsayen/dom-to-image) | stars:8767⭐️ | Generates an image from a DOM node using HTML5 canvas | 
 | [wasmer](https://github.com/wasmerio/wasmer) | stars:12879⭐️ | 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten | 
@@ -114,11 +117,11 @@ Updated every Monday.
 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | stars:7749⭐️ | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 | 
 | [vscode-vsce](https://github.com/microsoft/vscode-vsce) | stars:535⭐️ | VS Code Extension Manager | 
 | [examples](https://github.com/PlasmoHQ/examples) | stars:71⭐️ | Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools | 
-| [SteamTools](https://github.com/BeyondDimension/SteamTools) | stars:9839⭐️ | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | 
+| [SteamTools](https://github.com/BeyondDimension/SteamTools) | stars:9840⭐️ | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | 
 | [plasmo](https://github.com/PlasmoHQ/plasmo) | stars:4101⭐️ | The browser extension framework | 
 | [js-xss](https://github.com/leizongmin/js-xss) | stars:4641⭐️ | Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist | 
-| [secguide](https://github.com/Tencent/secguide) | stars:11095⭐️ | 面向开发人员梳理的代码安全指南 | 
-| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | stars:7277⭐️ | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ | 
+| [secguide](https://github.com/Tencent/secguide) | stars:11096⭐️ | 面向开发人员梳理的代码安全指南 | 
+| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | stars:7279⭐️ | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ | 
 | [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | stars:14337⭐️ | 强大的哔哩哔哩增强脚本 | 
 | [nitro](https://github.com/unjs/nitro) | stars:889⭐️ | ⚗️ Build and deploy universal JavaScript servers | 
 | [node-regedit](https://github.com/ironSource/node-regedit) | stars:223⭐️ | Read, Write, List and do all sorts of funky stuff to the windows registry using node.js and windows script host | 
@@ -129,27 +132,27 @@ Updated every Monday.
 | [replay](https://github.com/puppeteer/replay) | stars:298⭐️ | Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder | 
 | [captcha_detection](https://github.com/AaronJny/captcha_detection) | stars:51⭐️ | 点选式验证码识别方案 | 
 | [books-backup](https://github.com/wangrongding/books-backup) | stars:1⭐️ | 备份的一些书籍 | 
-| [Gource](https://github.com/acaudwell/Gource) | stars:9482⭐️ | software version control visualization | 
+| [Gource](https://github.com/acaudwell/Gource) | stars:9483⭐️ | software version control visualization | 
 | [mind-ar-js](https://github.com/hiukim/mind-ar-js) | stars:1089⭐️ | Web Augmented Reality. Image Tracking, Face Tracking. Tensorflow.js | 
 | [orly](https://github.com/nanmu42/orly) | stars:654⭐️ | :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴 | 
 | [magenta-js](https://github.com/magenta/magenta-js) | stars:1732⭐️ | Magenta.js: Music and Art Generation with Machine Learning in the browser | 
 | [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) | stars:698⭐️ | Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome. | 
 | [copy-as-markdown](https://github.com/notlmn/copy-as-markdown) | stars:153⭐️ | 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support | 
 | [lil-gui](https://github.com/georgealways/lil-gui) | stars:445⭐️ | Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects. | 
-| [Web](https://github.com/qianguyihao/Web) | stars:21446⭐️ | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | 
+| [Web](https://github.com/qianguyihao/Web) | stars:21445⭐️ | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | 
 | [Blog](https://github.com/berwin/Blog) | stars:3963⭐️ | 记录成长的过程 | 
 | [Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) | stars:863⭐️ | nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle: | 
 | [crud](https://github.com/nestjsx/crud) | stars:3170⭐️ | NestJs CRUD for RESTful APIs | 
-| [awesome-nestjs](https://github.com/nestjs/awesome-nestjs) | stars:6542⭐️ | A curated list of awesome things related to NestJS 😎 | 
-| [nest](https://github.com/nestjs/nest) | stars:49999⭐️ | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 
+| [awesome-nestjs](https://github.com/nestjs/awesome-nestjs) | stars:6543⭐️ | A curated list of awesome things related to NestJS 😎 | 
+| [nest](https://github.com/nestjs/nest) | stars:50000⭐️ | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 
 | [deepkit-framework](https://github.com/deepkit/deepkit-framework) | stars:2158⭐️ | A new full-featured and high-performance TypeScript framework for enterprise applications. | 
 | [LiveTerm](https://github.com/Cveinnt/LiveTerm) | stars:3429⭐️ | 💻 Build terminal styled websites in minutes! | 
 | [electron-util](https://github.com/sindresorhus/electron-util) | stars:1143⭐️ | Useful utilities for Electron apps and modules | 
 | [proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) | stars:450⭐️ | TC39 Proposal to remove common leading indentation from multiline template strings | 
 | [exif-js](https://github.com/exif-js/exif-js) | stars:4385⭐️ | JavaScript library for reading EXIF image metadata | 
-| [slidev](https://github.com/slidevjs/slidev) | stars:22352⭐️ | Presentation Slides for Developers | 
+| [slidev](https://github.com/slidevjs/slidev) | stars:22353⭐️ | Presentation Slides for Developers | 
 | [dingtalk-pierced-client](https://github.com/open-dingtalk/dingtalk-pierced-client) | stars:194⭐️ | 钉钉内网穿透客户端，鉴于很多开发者在临时体验开发时往往没有公网域名或者公网IP，本工具提供了一个公网代理服务，目的是方便开发测试，仅用于开发测试过程，不可用于线上生产环境。 | 
-| [pierced](https://github.com/open-dingtalk/pierced) | stars:2059⭐️ | 钉钉内网穿透 | 
+| [pierced](https://github.com/open-dingtalk/pierced) | stars:2060⭐️ | 钉钉内网穿透 | 
 | [turndown](https://github.com/mixmark-io/turndown) | stars:6361⭐️ | 🛏 An HTML to Markdown converter written in JavaScript | 
 | [any-type](https://github.com/any86/any-type) | stars:28⭐️ | 一键 JSON 转 Typescript 类型. | 
 | [npminstall](https://github.com/cnpm/npminstall) | stars:446⭐️ | Make `npm install` fast and easy. | 
@@ -166,10 +169,10 @@ Updated every Monday.
 | [logoly](https://github.com/bestony/logoly) | stars:6490⭐️ | A Pornhub Flavour Logo Generator | 
 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | stars:40578⭐️ | The repository for high quality TypeScript type definitions. | 
 | [copy-translator](https://github.com/zu1k/copy-translator) | stars:900⭐️ | 简单、轻量、好用的划词翻译软件 | 
-| [ecma262](https://github.com/tc39/ecma262) | stars:13548⭐️ | Status, process, and documents for ECMA-262 | 
+| [ecma262](https://github.com/tc39/ecma262) | stars:13549⭐️ | Status, process, and documents for ECMA-262 | 
 | [es-discuss](https://github.com/JSCIG/es-discuss) | stars:493⭐️ | JavaScript语言标准（ECMAScript）中文讨论 | 
 | [jest-preview](https://github.com/nvh95/jest-preview) | stars:1884⭐️ | Debug your Jest tests. Effortlessly.🛠🖼  | 
-| [volar](https://github.com/johnsoncodehk/volar) | stars:3550⭐️ | ⚡ Explore high-performance tooling for Vue | 
+| [volar](https://github.com/johnsoncodehk/volar) | stars:3551⭐️ | ⚡ Explore high-performance tooling for Vue | 
 | [graphql.github.io](https://github.com/graphql/graphql.github.io) | stars:748⭐️ | GraphQL Documentation at graphql.org | 
 | [probot](https://github.com/probot/probot) | stars:7893⭐️ | 🤖 A framework for building GitHub Apps to automate and improve your workflow | 
 | [grammY](https://github.com/grammyjs/grammY) | stars:608⭐️ | The Telegram Bot Framework. | 
@@ -205,7 +208,7 @@ Updated every Monday.
 | [proposals](https://github.com/tc39/proposals) | stars:15866⭐️ | Tracking ECMAScript Proposals | 
 | [TypeScript](https://github.com/microsoft/TypeScript) | stars:83848⭐️ | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 
 | [electron-reload](https://github.com/yan-foto/electron-reload) | stars:491⭐️ | Simplest (:pray:) way to reload an electron app on file changes! | 
-| [ant-design](https://github.com/ant-design/ant-design) | stars:81701⭐️ | An enterprise-class UI design language and React UI library | 
+| [ant-design](https://github.com/ant-design/ant-design) | stars:81702⭐️ | An enterprise-class UI design language and React UI library | 
 | [customize-cra](https://github.com/arackaf/customize-cra) | stars:2609⭐️ | Override webpack configurations for create-react-app 2.0 | 
 | [electron-wallpaper](https://github.com/robinwassen/electron-wallpaper) | stars:122⭐️ | Node module that allows you to attach a window as wallpaper in Windows. | 
 | [Plash](https://github.com/sindresorhus/Plash) | stars:2273⭐️ | 💦 Make any website your Mac desktop wallpaper | 
@@ -213,34 +216,34 @@ Updated every Monday.
 | [windows-installer](https://github.com/electron/windows-installer) | stars:1415⭐️ | Build Windows Installers for Electron apps | 
 | [mousetrap](https://github.com/ccampbell/mousetrap) | stars:11158⭐️ | Simple library for handling keyboard shortcuts in Javascript | 
 | [react-virtualized](https://github.com/bvaughn/react-virtualized) | stars:24134⭐️ | React components for efficiently rendering large lists and tabular data | 
-| [react-window](https://github.com/bvaughn/react-window) | stars:12971⭐️ | React components for efficiently rendering large lists and tabular data | 
+| [react-window](https://github.com/bvaughn/react-window) | stars:12972⭐️ | React components for efficiently rendering large lists and tabular data | 
 | [cli](https://github.com/cli/cli) | stars:29666⭐️ | GitHub’s official command line tool | 
 | [desktop-renderer](https://github.com/wangrongding/desktop-renderer) | stars:14⭐️ | A desktop wallpaper client that supports live wallpapers.（一个桌面壁纸客户端，支持动态壁纸） | 
 | [space-radar](https://github.com/zz85/space-radar) | stars:1237⭐️ | Disk And Memory Space Visualization App built with Electron & d3.js | 
-| [beaker](https://github.com/beakerbrowser/beaker) | stars:6605⭐️ | An experimental peer-to-peer Web browser | 
+| [beaker](https://github.com/beakerbrowser/beaker) | stars:6606⭐️ | An experimental peer-to-peer Web browser | 
 | [chalk-animation](https://github.com/bokub/chalk-animation) | stars:1882⭐️ | :clapper: Colorful animations in terminal output | 
 | [node-gyp](https://github.com/nodejs/node-gyp) | stars:8574⭐️ | Node.js native addon build tool | 
 | [node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi) | stars:704⭐️ | A foreign function interface (FFI) for Node.js, N-API style | 
 | [quasar](https://github.com/quasarframework/quasar) | stars:21883⭐️ | Quasar Framework - Build high-performance VueJS user interfaces in record time | 
 | [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) | stars:1320⭐️ | Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla | 
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | stars:95305⭐️ | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | stars:95304⭐️ | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 
 | [electron-vite-template](https://github.com/umbrella22/electron-vite-template) | stars:196⭐️ | This project is a vue3 + Vite + electron project template composed of Vite and rollup. It has the same functions as my previous electron+Vue+template project | 
 | [nat-utools](https://github.com/lblblong/nat-utools) | stars:248⭐️ | 内网穿透 - utools 插件 | 
 | [volta](https://github.com/volta-cli/volta) | stars:6548⭐️ | Volta: JS Toolchains as Code. ⚡ | 
 | [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | stars:3080⭐️ | Ethereum.org is a primary online resource for the Ethereum community. | 
 | [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) | stars:2346⭐️ | The largest Node.js CLI Apps best practices list ✨ | 
-| [lexical](https://github.com/facebook/lexical) | stars:11340⭐️ | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | 
+| [lexical](https://github.com/facebook/lexical) | stars:11341⭐️ | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | 
 | [umami](https://github.com/umami-software/umami) | stars:12645⭐️ | Umami is a simple, fast, privacy-focused alternative to Google Analytics. | 
 | [dash](https://github.com/plotly/dash) | stars:17232⭐️ | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 
 | [tfjs-examples](https://github.com/tensorflow/tfjs-examples) | stars:5792⭐️ | Examples built with TensorFlow.js | 
 | [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) | stars:5959⭐️ | Apache ECharts 的微信小程序版本 | 
 | [yoga](https://github.com/facebook/yoga) | stars:15496⭐️ | Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates. | 
-| [react](https://github.com/facebook/react) | stars:194123⭐️ | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 
-| [umi](https://github.com/umijs/umi) | stars:12973⭐️ | A framework in react community ✨ | 
-| [next.js](https://github.com/vercel/next.js) | stars:91917⭐️ | The React Framework | 
+| [react](https://github.com/facebook/react) | stars:194126⭐️ | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 
+| [umi](https://github.com/umijs/umi) | stars:12974⭐️ | A framework in react community ✨ | 
+| [next.js](https://github.com/vercel/next.js) | stars:91918⭐️ | The React Framework | 
 | [taro-vue3-weapp](https://github.com/wangrongding/taro-vue3-weapp) | stars:5⭐️ | 一个基于taro的(vue3+TypeScript+pinia)小程序 | 
 | [PptxGenJS](https://github.com/gitbrent/PptxGenJS) | stars:1675⭐️ | Create PowerPoint presentations with a powerful, concise JavaScript API. | 
-| [funNLP](https://github.com/fighting41love/funNLP) | stars:42768⭐️ | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具 | 
+| [funNLP](https://github.com/fighting41love/funNLP) | stars:42769⭐️ | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具 | 
 | [PPTist](https://github.com/pipipi-pikachu/PPTist) | stars:2784⭐️ | 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。 | 
 | [dev-search](https://github.com/wangrongding/dev-search) | stars:2⭐️ | 在命令行中快速搜索你想要的！ | 
 | [computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) | stars:8562⭐️ | Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.  | 
@@ -299,28 +302,28 @@ Updated every Monday.
 | [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) | stars:8809⭐️ | one for all free music in china (chrome extension, also works for firefox) | 
 | [chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) | stars:1412⭐️ | All Chrome Extension examples collected into one repository | 
 | [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) | stars:10564⭐️ | Chrome Extensions Samples | 
-| [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) | stars:2075⭐️ | 📲 On-demand components auto importing for Vue | 
+| [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) | stars:2076⭐️ | 📲 On-demand components auto importing for Vue | 
 | [cascadia-code](https://github.com/microsoft/cascadia-code) | stars:20878⭐️ | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | 
-| [docsify](https://github.com/docsifyjs/docsify) | stars:21506⭐️ | 🃏 A magical documentation site generator. | 
+| [docsify](https://github.com/docsifyjs/docsify) | stars:21507⭐️ | 🃏 A magical documentation site generator. | 
 | [mermaid](https://github.com/mermaid-js/mermaid) | stars:49611⭐️ | Generation of diagram and flowchart from text in a similar manner as markdown | 
 | [markdown-it](https://github.com/markdown-it/markdown-it) | stars:14048⭐️ | Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed | 
 | [docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) | stars:782⭐️ | Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs | 
-| [matter-js](https://github.com/liabru/matter-js) | stars:13632⭐️ | a 2D rigid body physics engine for the web ▲● ■ | 
+| [matter-js](https://github.com/liabru/matter-js) | stars:13633⭐️ | a 2D rigid body physics engine for the web ▲● ■ | 
 | [Coding-Guide](https://github.com/ecmadao/Coding-Guide) | stars:1431⭐️ | 自己随手记录的东西 | 
 | [devtools](https://github.com/wangrongding/devtools) | stars:2⭐️ | 一个非常好用的开发者工具集！ | 
 | [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) | stars:6862⭐️ | 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验 | 
 | [npm-name](https://github.com/sindresorhus/npm-name) | stars:148⭐️ | Check whether a package or organization name is available on npm | 
-| [vitepress](https://github.com/vuejs/vitepress) | stars:5548⭐️ | Vite & Vue powered static site generator. | 
+| [vitepress](https://github.com/vuejs/vitepress) | stars:5549⭐️ | Vite & Vue powered static site generator. | 
 | [musicbox](https://github.com/darknessomi/musicbox) | stars:9446⭐️ | 网易云音乐命令行版本 | 
 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | stars:25381⭐️ | 网易云音乐 Node.js API service | 
 | [vitesse-webext](https://github.com/zouhangwithsweet/vitesse-webext) | stars:2⭐️ | ⚡️ Web Extension Vite Starter | 
 | [rollup-plugin-copy](https://github.com/vladshcherbin/rollup-plugin-copy) | stars:198⭐️ | Copy files and folders using Rollup | 
 | [awesome-vite](https://github.com/vitejs/awesome-vite) | stars:7122⭐️ | ⚡️ A curated list of awesome things related to Vite.js | 
-| [vite](https://github.com/vitejs/vite) | stars:46905⭐️ | Next generation frontend tooling. It's fast! | 
+| [vite](https://github.com/vitejs/vite) | stars:46907⭐️ | Next generation frontend tooling. It's fast! | 
 | [micro-app](https://github.com/micro-zoe/micro-app) | stars:3294⭐️ | A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架 | 
 | [garfish](https://github.com/modern-js-dev/garfish) | stars:1656⭐️ | A powerful micro front-end framework 🚚 | 
 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | stars:51500⭐️ | 📜 33 JavaScript concepts every developer should know. | 
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | stars:27156⭐️ | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  | 
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | stars:27157⭐️ | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  | 
 | [gold-miner](https://github.com/xitu/gold-miner) | stars:31149⭐️ | 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台： | 
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | stars:61587⭐️ | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | 
 | [hubot](https://github.com/hubotio/hubot) | stars:16243⭐️ | A customizable life embetterment robot. | 
@@ -331,34 +334,34 @@ Updated every Monday.
 | [ccxt](https://github.com/ccxt/ccxt) | stars:25547⭐️ | A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges | 
 | [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | stars:9939⭐️ | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. | 
 | [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | stars:9934⭐️ | 🖥 📊 🕹 🛠 A curated list of command line apps | 
-| [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) | stars:9420⭐️ | 😎 Awesome things related to Tailwind CSS | 
+| [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) | stars:9421⭐️ | 😎 Awesome things related to Tailwind CSS | 
 | [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) | stars:8958⭐️ | Defund the Police. | 
 | [awesome-lowcode](https://github.com/taowen/awesome-lowcode) | stars:9727⭐️ | 国内低代码平台从业者交流 | 
 | [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) | stars:7998⭐️ | :octocat: A collection of APIs | 
 | [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | stars:7588⭐️ | :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! | 
 | [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) | stars:7538⭐️ | 🐶 A curated list of Web Security materials and resources. | 
-| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | stars:55325⭐️ | A collection of various awesome lists for hackers, pentesters and security researchers | 
-| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | stars:52674⭐️ |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | 
-| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | stars:49171⭐️ | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  | 
-| [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | stars:46470⭐️ | :zap: Delightful Node.js packages and resources | 
-| [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | stars:43171⭐️ | A list of awesome beginners-friendly projects. | 
-| [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | stars:36636⭐️ | A list of cool features of Git and GitHub. | 
+| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | stars:55326⭐️ | A collection of various awesome lists for hackers, pentesters and security researchers | 
+| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | stars:52675⭐️ |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | 
+| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | stars:49172⭐️ | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  | 
+| [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | stars:46471⭐️ | :zap: Delightful Node.js packages and resources | 
+| [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | stars:43172⭐️ | A list of awesome beginners-friendly projects. | 
+| [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | stars:36635⭐️ | A list of cool features of Git and GitHub. | 
 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | stars:34988⭐️ | Manually curated collection of resources for frontend web developers. | 
 | [awesome-electron](https://github.com/sindresorhus/awesome-electron) | stars:23269⭐️ | Useful resources for creating apps with Electron | 
 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | stars:22703⭐️ | :whale: A curated list of Docker resources and projects | 
 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | stars:20945⭐️ | 🎨 A curated list of delightful VS Code packages and resources. | 
 | [Awesome](https://github.com/Awesome-Windows/Awesome) | stars:19964⭐️ | :computer: 🎉 An awesome & curated list of best applications and tools for Windows. | 
-| [weekly](https://github.com/ascoders/weekly) | stars:21066⭐️ | 前端精读周刊。帮你理解最前沿、实用的技术。 | 
+| [weekly](https://github.com/ascoders/weekly) | stars:21068⭐️ | 前端精读周刊。帮你理解最前沿、实用的技术。 | 
 | [awesome-actions](https://github.com/sdras/awesome-actions) | stars:19525⭐️ | A curated list of awesome actions to use on GitHub | 
 | [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | stars:14397⭐️ | ✅  Curated list of resources for college students  | 
 | [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | stars:13550⭐️ | Awesome list of GraphQL | 
 | [awesome-nlp](https://github.com/keon/awesome-nlp) | stars:13597⭐️ | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | stars:12740⭐️ | A curated list of awesome READMEs | 
 | [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | stars:10299⭐️ | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | 
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | stars:63990⭐️ | Papers from the computer science community to read and discuss. | 
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | stars:63991⭐️ | Papers from the computer science community to read and discuss. | 
 | [awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs) | stars:826⭐️ | A curated list of awesome Cycle.js resources | 
-| [awesome](https://github.com/sindresorhus/awesome) | stars:217344⭐️ | 😎 Awesome lists about all kinds of interesting topics | 
-| [public-apis](https://github.com/public-apis/public-apis) | stars:207502⭐️ | A collective list of free APIs | 
+| [awesome](https://github.com/sindresorhus/awesome) | stars:217346⭐️ | 😎 Awesome lists about all kinds of interesting topics | 
+| [public-apis](https://github.com/public-apis/public-apis) | stars:207506⭐️ | A collective list of free APIs | 
 | [taro-kit](https://github.com/wsdo/taro-kit) | stars:657⭐️ | 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊 | 
 | [project-guidelines](https://github.com/elsewhencode/project-guidelines) | stars:27246⭐️ | A set of best practices for JavaScript projects | 
 | [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) | stars:5935⭐️ | A kickstarter guide to writing ES6 | 
@@ -366,20 +369,20 @@ Updated every Monday.
 | [localForage](https://github.com/localForage/localForage) | stars:20938⭐️ | 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. | 
 | [store.js](https://github.com/marcuswestin/store.js) | stars:13812⭐️ | Cross-browser storage for all use cases, used across the web. | 
 | [underscore](https://github.com/jashkenas/underscore) | stars:26556⭐️ | JavaScript's utility _ belt | 
-| [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | stars:28590⭐️ | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | 
+| [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | stars:28591⭐️ | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | 
 | [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) | stars:23340⭐️ | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. | 
 | [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) | stars:19243⭐️ | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. | 
 | [melonJS](https://github.com/melonjs/melonJS) | stars:4153⭐️ | a fresh & lightweight javascript game engine | 
 | [cocos2d-x](https://github.com/cocos2d/cocos2d-x) | stars:16423⭐️ | Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world. | 
-| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | stars:71673⭐️ | :bathtub: Clean Code concepts adapted for JavaScript | 
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | stars:71674⭐️ | :bathtub: Clean Code concepts adapted for JavaScript | 
 | [js-the-right-way](https://github.com/braziljs/js-the-right-way) | stars:8442⭐️ | An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web | 
 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | stars:158500⭐️ | A book series on JavaScript. @YDKJS on twitter. | 
 | [wtfjs](https://github.com/denysdovhan/wtfjs) | stars:27647⭐️ | 🤪 A list of funny and tricky JavaScript examples | 
 | [cowsay](https://github.com/piuccio/cowsay) | stars:898⭐️ | cowsay is a configurable talking cow | 
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | stars:46788⭐️ | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). | 
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | stars:46791⭐️ | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). | 
 | [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | stars:22066⭐️ | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | 
 | [mujs](https://github.com/ccxvii/mujs) | stars:632⭐️ | An embeddable Javascript interpreter in C. | 
-| [trois](https://github.com/troisjs/trois) | stars:2698⭐️ | ✨ ThreeJS + VueJS 3 + ViteJS ⚡ | 
+| [trois](https://github.com/troisjs/trois) | stars:2699⭐️ | ✨ ThreeJS + VueJS 3 + ViteJS ⚡ | 
 | [threejs-template-complex](https://github.com/brunosimon/threejs-template-complex) | stars:172⭐️ | null | 
 | [my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) | stars:2008⭐️ | null | 
 | [keppler](https://github.com/brunosimon/keppler) | stars:1703⭐️ | Real time code sharing for your lectures and presentations. | 
@@ -402,7 +405,7 @@ Updated every Monday.
 | [degit](https://github.com/Rich-Harris/degit) | stars:4939⭐️ | Straightforward project scaffolding | 
 | [sinwProject](https://github.com/sincw/sinwProject) | stars:24⭐️ | null | 
 | [camera-controls](https://github.com/yomotsu/camera-controls) | stars:1121⭐️ | A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features. | 
-| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | stars:16912⭐️ | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | 
+| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | stars:16913⭐️ | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | 
 | [puppeteer-park](https://github.com/wangrongding/puppeteer-park) | stars:1⭐️ | puppeteer脚本合集 | 
 | [threejs](https://github.com/huanzi-qch/threejs) | stars:15⭐️ | Threejs基础实例Demo，大体上已经封装实现了加载OBJ、FBX、原生对象、2D、3Dlabel等，封装对象鼠标事件的监听，镜头动画封装，基本上满足业务的开发 | 
 | [icones](https://github.com/antfu/icones) | stars:2466⭐️ | ⚡️ Icon Explorer with Instant searching, powered by Iconify | 
@@ -419,18 +422,18 @@ Updated every Monday.
 | [vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) | stars:958⭐️ | One of the "BEST" markdown preview extensions for Visual Studio Code | 
 | [rodio](https://github.com/RustAudio/rodio) | stars:1032⭐️ | Rust audio playback library | 
 | [cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) | stars:521⭐️ | Netease Music for VS Code | 
-| [puppeteer](https://github.com/puppeteer/puppeteer) | stars:79670⭐️ | Headless Chrome Node.js API | 
+| [puppeteer](https://github.com/puppeteer/puppeteer) | stars:79671⭐️ | Headless Chrome Node.js API | 
 | [onlyoffice-ibisheng](https://github.com/ibisheng/onlyoffice-ibisheng) | stars:388⭐️ | onlyoffice 毕升解决方案。毕升文档在线文件服务部分的Office在线编辑预览使用优秀的开源项目onlyOffice，根据开源协议我们将毕升修改过的sdkjs进行开源。另外毕升文档重新设计only Office UI交互以及彻底重写服务器。 | 
 | [mammoth.js](https://github.com/mwilliamson/mammoth.js) | stars:3564⭐️ | Convert Word documents (.docx files) to HTML | 
 | [RSSHub](https://github.com/DIYgod/RSSHub) | stars:21064⭐️ | 🍰 Everything is RSSible | 
 | [vscode_english_chinese_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) | stars:53⭐️ | vscode插件, 实现离线英汉词典功能 | 
 | [fanyi](https://github.com/wangrongding/fanyi) | stars:3⭐️ | VS Code 划词翻译插件 | 
 | [vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) | stars:884⭐️ | VSCode插件开发全攻略配套demo | 
-| [OpenArk](https://github.com/BlackINT3/OpenArk) | stars:3478⭐️ | OpenArk is an open source anti-rookit(ARK) tool for Windows.  | 
+| [OpenArk](https://github.com/BlackINT3/OpenArk) | stars:3479⭐️ | OpenArk is an open source anti-rookit(ARK) tool for Windows.  | 
 | [VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) | stars:1518⭐️ | VS Code插件开发文档-中文版 | 
 | [vscode-fanyi](https://github.com/maqi1520/vscode-fanyi) | stars:5⭐️ | vscode 翻译插件 | 
 | [mddir](https://github.com/JohnByrneRepo/mddir) | stars:185⭐️ | Mddir generates a markdown file/folder structure for readme files | 
-| [PowerToys](https://github.com/microsoft/PowerToys) | stars:76962⭐️ | Windows system utilities to maximize productivity | 
+| [PowerToys](https://github.com/microsoft/PowerToys) | stars:76961⭐️ | Windows system utilities to maximize productivity | 
 | [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) | stars:1958⭐️ | A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts. | 
 | [relationship](https://github.com/mumuy/relationship) | stars:1268⭐️ | Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/亲戚关系算法/親戚稱呼計算機 | 
 | [mongoose](https://github.com/Automattic/mongoose) | stars:24726⭐️ | MongoDB object modeling designed to work in an asynchronous environment. | 
@@ -468,7 +471,7 @@ Updated every Monday.
 | [AutoPiano](https://github.com/AutoPiano/AutoPiano) | stars:5430⭐️ | 🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online | 
 | [threejs-park](https://github.com/wangrongding/threejs-park) | stars:3⭐️ | threejs | 
 | [type-challenges](https://github.com/type-challenges/type-challenges) | stars:23530⭐️ | Collection of TypeScript type challenges with online judge | 
-| [LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) | stars:4998⭐️ | 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 | 
+| [LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) | stars:5000⭐️ | 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 | 
 | [chat-bubble](https://github.com/dmitrizzle/chat-bubble) | stars:445⭐️ | Simple chatbot UI for the Web with JSON scripting 👋🤖🤙 | 
 | [leetcut](https://github.com/wangrongding/leetcut) | stars:6⭐️ | 和我一起leetcode每日算法打卡 | 
 | [FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) | stars:4341⭐️ | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等） | 
@@ -484,10 +487,10 @@ Updated every Monday.
 | [codemirror5](https://github.com/codemirror/codemirror5) | stars:25312⭐️ | In-browser code editor (version 5, legacy) | 
 | [tabby](https://github.com/Eugeny/tabby) | stars:37441⭐️ | A terminal for a more modern age | 
 | [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | stars:9183⭐️ | TypeScript 入门教程 | 
-| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | stars:47226⭐️ | A long list of (advanced) JavaScript questions, and their explanations :sparkles:   | 
+| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | stars:47227⭐️ | A long list of (advanced) JavaScript questions, and their explanations :sparkles:   | 
 | [cReptile](https://github.com/cuixiaorui/cReptile) | stars:64⭐️ | 爬取电影网站，生成免费电影url | 
 | [vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next) | stars:1570⭐️ | vue-vben-admin-2.0 mini template.vue3,vite,typescript | 
-| [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) | stars:6457⭐️ | A pure JavaScript implementation of git for node and browsers! | 
+| [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) | stars:6458⭐️ | A pure JavaScript implementation of git for node and browsers! | 
 | [vue3-admin](https://github.com/wangrongding/vue3-admin) | stars:3⭐️ | null | 
 | [seckill](https://github.com/lyrric/seckill) | stars:2110⭐️ | 苗苗 约苗 九价 秒杀 脚本 | 
 | [ideawall](https://github.com/thinkneoc/ideawall) | stars:26⭐️ | 一款产品级跨平台动态桌面软件,轻松将任意网页设置为桌面背景.此外,幻灯片,视频,等常见动态桌面也均手到擒来. | 
@@ -498,7 +501,7 @@ Updated every Monday.
 | [Detox](https://github.com/wix/Detox) | stars:9818⭐️ | Gray box end-to-end testing and automation framework for mobile apps | 
 | [mini-vue](https://github.com/cuixiaorui/mini-vue) | stars:7846⭐️ | 实现最简 vue3 模型( Help you learn more efficiently vue3 source code ) | 
 | [md](https://github.com/doocs/md) | stars:3343⭐️ | ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | 
-| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | stars:14240⭐️ | 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 | 
+| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | stars:14241⭐️ | 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。 | 
 | [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) | stars:9618⭐️ | A powerful obfuscator for JavaScript and Node.js | 
 | [fanyi](https://github.com/afc163/fanyi) | stars:1197⭐️ | A 🇨🇳 and 🇺🇸 translate tool in your command line. | 
 | [npm-run-all](https://github.com/mysticatea/npm-run-all) | stars:4954⭐️ | A CLI tool to run multiple npm-scripts in parallel or sequential. | 
@@ -510,7 +513,7 @@ Updated every Monday.
 | [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) | stars:7595⭐️ | Responsive and slick progress bars  | 
 | [Wallpaper](https://github.com/NoisyWinds/Wallpaper) | stars:350⭐️ | html5/c++实现桌面动态壁纸 (可hover交互 )  Make wallpaper with html，like Wallpaper Engine in steam | 
 | [wl-mfe](https://github.com/wl-ui/wl-mfe) | stars:453⭐️ | 基于vue3+koa2+qiankun2的微前端后台管理系统项目实战 | 
-| [netron](https://github.com/lutzroeder/netron) | stars:19797⭐️ | Visualizer for neural network, deep learning, and machine learning models | 
+| [netron](https://github.com/lutzroeder/netron) | stars:19798⭐️ | Visualizer for neural network, deep learning, and machine learning models | 
 | [ml5-library](https://github.com/ml5js/ml5-library) | stars:5708⭐️ | Friendly machine learning for the web! 🤖  | 
 | [MockingBird](https://github.com/babysor/MockingBird) | stars:23914⭐️ | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time | 
 | [minimist](https://github.com/substack/minimist) | stars:5296⭐️ | parse argument options | 
@@ -536,8 +539,8 @@ Updated every Monday.
 | [ace](https://github.com/ajaxorg/ace) | stars:24817⭐️ | Ace (Ajax.org Cloud9 Editor) | 
 | [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) | stars:377⭐️ | 🖋 Vue Signature Pad Component | 
 | [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) | stars:1882⭐️ | 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask. | 
-| [v2ray-core](https://github.com/v2fly/v2ray-core) | stars:17854⭐️ | A platform for building proxies to bypass network restrictions. | 
-| [v2rayN](https://github.com/2dust/v2rayN) | stars:31622⭐️ | A V2Ray client for Windows, support Xray core and v2fly core | 
+| [v2ray-core](https://github.com/v2fly/v2ray-core) | stars:17855⭐️ | A platform for building proxies to bypass network restrictions. | 
+| [v2rayN](https://github.com/2dust/v2rayN) | stars:31623⭐️ | A V2Ray client for Windows, support Xray core and v2fly core | 
 | [free](https://github.com/freefq/free) | stars:23241⭐️ | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 | 
 | [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | stars:33965⭐️ | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | 
 | [samples](https://github.com/wangrongding/samples) | stars:2⭐️ | WebRTC Web demos and samples | 
@@ -558,7 +561,7 @@ Updated every Monday.
 | [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | stars:13597⭐️ | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ | 
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | stars:18236⭐️ | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. | 
 | [pixijs](https://github.com/pixijs/pixijs) | stars:37289⭐️ | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. | 
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | stars:163410⭐️ | Master programming by recreating your favorite technologies from scratch. | 
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | stars:163417⭐️ | Master programming by recreating your favorite technologies from scratch. | 
 | [canvas2video](https://github.com/welefen/canvas2video) | stars:178⭐️ | Convert dynamic canvas to video, support merge audio | 
 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | stars:8363⭐️ | FFmpeg for browser and node, powered by WebAssembly | 
 | [WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) | stars:1191⭐️ | 新浪微博图床 Chrome扩展 | 
@@ -566,7 +569,7 @@ Updated every Monday.
 | [avue](https://github.com/nmxiaowei/avue) | stars:1928⭐️ | Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 | 
 | [xe-utils](https://github.com/x-extends/xe-utils) | stars:360⭐️ | javascript 函数库、工具类 | 
 | [images](https://github.com/weserv/images) | stars:1165⭐️ | Source code of images.weserv.nl, to be used on your own server(s). | 
-| [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) | stars:204⭐️ | Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN | 
+| [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) | stars:205⭐️ | Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN | 
 | [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | stars:637⭐️ | A dynamically generated activity graph to show your GitHub activities of last 31 days. | 
 | [highlight.js](https://github.com/highlightjs/highlight.js) | stars:20383⭐️ | JavaScript syntax highlighter with language auto-detection and zero dependencies. | 
 | [Mars](https://github.com/AlloyTeam/Mars) | stars:9422⭐️ | 腾讯移动 Web 前端知识库 | 
@@ -647,14 +650,14 @@ Updated every Monday.
 | [dtools](https://github.com/wangrongding/dtools) | stars:5⭐️ | 📦  媲美utools的开源工具箱，自由集成丰富插件，utools生态插件微改动即可无差异化使用。 | 
 | [awesome-wepy](https://github.com/aben1188/awesome-wepy) | stars:4195⭐️ | Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总 | 
 | [kbone](https://github.com/Tencent/kbone) | stars:4379⭐️ | 一个致力于微信小程序和 Web 端同构的解决方案 | 
-| [wepy](https://github.com/Tencent/wepy) | stars:21888⭐️ | 小程序组件化开发框架 | 
+| [wepy](https://github.com/Tencent/wepy) | stars:21889⭐️ | 小程序组件化开发框架 | 
 | [gh](https://github.com/node-gh/gh) | stars:1701⭐️ | (DEPRECATED) GitHub CLI made with NodeJS | 
 | [tracking.js](https://github.com/eduardolundgren/tracking.js) | stars:9201⭐️ | A modern approach for Computer Vision on the web | 
 | [say.js](https://github.com/silence19/say.js) | stars:2⭐️ | TTS (text to speech) for node.js. send text from node.js to your speakers. | 
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | stars:40950⭐️ | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | stars:40952⭐️ | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 
 | [yapi](https://github.com/YMFE/yapi) | stars:24923⭐️ | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | 
 | [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | stars:14151⭐️ | 😎 A curated list of awesome GitHub Profile READMEs 📝 | 
-| [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) | stars:1427⭐️ | 📌✨ A collection of awesome dynamic pinned gists for GitHub | 
+| [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) | stars:1428⭐️ | 📌✨ A collection of awesome dynamic pinned gists for GitHub | 
 | [waka-box](https://github.com/wangrongding/waka-box) | stars:3⭐️ | 📊 Update a pinned gist to contain your weekly WakaTime stats | 
 | [waka-box](https://github.com/matchai/waka-box) | stars:1158⭐️ | 📊 Update a pinned gist to contain your weekly WakaTime stats | 
 | [UserScripts](https://github.com/jerone/UserScripts) | stars:284⭐️ | 🐵 My UserScripts | 
@@ -673,7 +676,7 @@ Updated every Monday.
 | [any-rule](https://github.com/any86/any-rule) | stars:6670⭐️ | 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台 | 
 | [wifi-card](https://github.com/bndw/wifi-card) | stars:5889⭐️ | 📶 Print a QR code for connecting to your WiFi (wificard.io) | 
 | [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) | stars:2309⭐️ | 微慕小程序开源版-WordPress版微信小程序 | 
-| [new-pac](https://github.com/Alvin9999/new-pac) | stars:36427⭐️ | 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 | 
+| [new-pac](https://github.com/Alvin9999/new-pac) | stars:36426⭐️ | 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 | 
 | [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) | stars:4083⭐️ | A shadowsocks manager tool for multi user and traffic control. | 
 | [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) | stars:4113⭐️ | 全面的Webpack教程《深入浅出Webpack》电子书 | 
 | [blog](https://github.com/gwuhaolin/blog) | stars:2103⭐️ | 浩麟的技术博客 | 
@@ -687,15 +690,15 @@ Updated every Monday.
 | [WebSight](https://github.com/Web-Sight/WebSight) | stars:484⭐️ | OpenCV wasm and asm.js port | 
 | [face-detection-node-opencv](https://github.com/estherjk/face-detection-node-opencv) | stars:476⭐️ | Real-time face detection using OpenCV, Node.js, and WebSockets | 
 | [size-limit](https://github.com/ai/size-limit) | stars:5455⭐️ | Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit. | 
-| [nanoid](https://github.com/ai/nanoid) | stars:18476⭐️ | A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript | 
-| [RecordRTC](https://github.com/muaz-khan/RecordRTC) | stars:5439⭐️ | RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows. | 
+| [nanoid](https://github.com/ai/nanoid) | stars:18477⭐️ | A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript | 
+| [RecordRTC](https://github.com/muaz-khan/RecordRTC) | stars:5440⭐️ | RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows. | 
 | [sharedb](https://github.com/share/sharedb) | stars:5337⭐️ | Realtime database backend based on Operational Transformation (OT) | 
 | [mercury-parser](https://github.com/postlight/mercury-parser) | stars:4289⭐️ | 📜 Extract meaningful content from the chaos of a web page | 
 | [Fakeflix](https://github.com/Th3Wall/Fakeflix) | stars:4660⭐️ | Not the usual clone that you can find on the web. | 
-| [xterm.js](https://github.com/xtermjs/xterm.js) | stars:13626⭐️ | A terminal for the web | 
+| [xterm.js](https://github.com/xtermjs/xterm.js) | stars:13627⭐️ | A terminal for the web | 
 | [devtools-terminal](https://github.com/petethepig/devtools-terminal) | stars:1297⭐️ | Terminal in Chrome Devtools | 
 | [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) | stars:1137⭐️ | QRCodes in your terminal, cause thats hot. | 
-| [gtop](https://github.com/aksakalli/gtop) | stars:9208⭐️ | System monitoring dashboard for terminal | 
+| [gtop](https://github.com/aksakalli/gtop) | stars:9209⭐️ | System monitoring dashboard for terminal | 
 | [terminal-kit](https://github.com/cronvel/terminal-kit) | stars:2604⭐️ | Terminal utilities for node.js | 
 | [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) | stars:5928⭐️ | 💖💻 A little dashboard that tries to take care of you when you're using your terminal. | 
 | [terminalizer](https://github.com/faressoft/terminalizer) | stars:12882⭐️ | 🦄 Record your terminal and generate animated gif images or share a web player | 
@@ -711,7 +714,7 @@ Updated every Monday.
 | [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) | stars:876⭐️ | :key: Curated list of awesome captcha libraries and crack tools. | 
 | [used-book-pro](https://github.com/xuhuai66/used-book-pro) | stars:1183⭐️ | 微信小程序云开发校园二手书商城，可在线支付提现，源码全开源 | 
 | [vue-baberrage](https://github.com/superhos/vue-baberrage) | stars:346⭐️ | A simple Barrage plugin Base on Vue.js.  | 基于Vue.js弹幕插件. | 
-| [rubick](https://github.com/rubickCenter/rubick) | stars:3433⭐️ | 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。 | 
+| [rubick](https://github.com/rubickCenter/rubick) | stars:3434⭐️ | 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。 | 
 | [cypress](https://github.com/cypress-io/cypress) | stars:40276⭐️ | Fast, easy and reliable testing for anything that runs in a browser. | 
 | [avatar](https://github.com/tobiaslins/avatar) | stars:713⭐️ | 💎   Beautiful avatars as a microservice | 
 | [Multiavatar](https://github.com/multiavatar/Multiavatar) | stars:1474⭐️ | Multicultural Avatar Generator in JavaScript | 
@@ -743,7 +746,7 @@ Updated every Monday.
 | [vue-h5-template](https://github.com/sunniejs/vue-h5-template) | stars:2153⭐️ | :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架  | 
 | [chalk](https://github.com/chalk/chalk) | stars:19061⭐️ | 🖍 Terminal string styling done right | 
 | [video.js](https://github.com/videojs/video.js) | stars:33984⭐️ | Video.js - open source HTML5 video player | 
-| [material-ui](https://github.com/mui/material-ui) | stars:80842⭐️ | MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components. | 
+| [material-ui](https://github.com/mui/material-ui) | stars:80843⭐️ | MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components. | 
 | [say.js](https://github.com/Marak/say.js) | stars:1354⭐️ | TTS (text to speech) for node.js. send text from node.js to your speakers. | 
 | [colors.js](https://github.com/Marak/colors.js) | stars:4996⭐️ | get colors in your node.js console | 
 | [faker.js](https://github.com/Marak/faker.js) | stars:34374⭐️ | generate massive amounts of realistic fake data in Node.js and the browser | 
@@ -751,7 +754,7 @@ Updated every Monday.
 | [vue-aliplayer](https://github.com/slacrey/vue-aliplayer) | stars:181⭐️ | vue aliplayer | 
 | [educative.io_courses](https://github.com/merry75/educative.io_courses) | stars:3108⭐️ | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack | 
 | [mini-blog](https://github.com/CavinCao/mini-blog) | stars:516⭐️ | mini-blog是一款基于云开发的博客小程序，该小程序完全不依赖任何后端服务，无需自己的网站、服务器、域名等资源，只需要自行注册小程序账号即可。 | 
-| [nocodb](https://github.com/nocodb/nocodb) | stars:29694⭐️ | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | 
+| [nocodb](https://github.com/nocodb/nocodb) | stars:29693⭐️ | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. | 
 | [gocd](https://github.com/gocd/gocd) | stars:6566⭐️ | Main repository for GoCD - Continuous Delivery server | 
 | [vConsole](https://github.com/Tencent/vConsole) | stars:14956⭐️ | A lightweight, extendable front-end developer tool for mobile web page. | 
 | [gatsby](https://github.com/gatsbyjs/gatsby) | stars:53464⭐️ | Build blazing fast, modern apps and websites with React | 
@@ -786,8 +789,8 @@ Updated every Monday.
 | [blind_watermark](https://github.com/guofei9987/blind_watermark) | stars:2223⭐️ | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | 
 | [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) | stars:4949⭐️ | A chrome extension for suspending all tabs to free up memory | 
 | [brave-browser](https://github.com/brave/brave-browser) | stars:13648⭐️ | Next generation Brave browser for Android, Linux, macOS, Windows. | 
-| [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | stars:48828⭐️ | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 | 
-| [refined-github](https://github.com/refined-github/refined-github) | stars:18735⭐️ | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 
+| [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | stars:48829⭐️ | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 | 
+| [refined-github](https://github.com/refined-github/refined-github) | stars:18736⭐️ | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 
 | [keycastr](https://github.com/keycastr/keycastr) | stars:8995⭐️ | KeyCastr, an open-source keystroke visualizer | 
 | [git-tips](https://github.com/521xueweihan/git-tips) | stars:14215⭐️ | :trollface:Git的奇技淫巧 | 
 | [webpackbar](https://github.com/unjs/webpackbar) | stars:1981⭐️ | Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5 | 
@@ -798,10 +801,10 @@ Updated every Monday.
 | [not-paid](https://github.com/kleampa/not-paid) | stars:9347⭐️ | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away | 
 | [github-corners](https://github.com/tholman/github-corners) | stars:4701⭐️ | A fresher "Fork me on GitHub" callout. | 
 | [nsfwjs](https://github.com/infinitered/nsfwjs) | stars:5876⭐️ | NSFW detection on the client-side via TensorFlow.js | 
-| [storybook](https://github.com/storybookjs/storybook) | stars:73673⭐️ | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 
-| [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | stars:55660⭐️ | A curated list of awesome Machine Learning frameworks, libraries and software. | 
-| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | stars:81120⭐️ | :white_check_mark:  The Node.js best practices list (August 2022) | 
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | stars:246942⭐️ | :books: Freely available programming books | 
+| [storybook](https://github.com/storybookjs/storybook) | stars:73674⭐️ | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 
+| [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | stars:55661⭐️ | A curated list of awesome Machine Learning frameworks, libraries and software. | 
+| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | stars:81122⭐️ | :white_check_mark:  The Node.js best practices list (August 2022) | 
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | stars:246944⭐️ | :books: Freely available programming books | 
 | [OpenPods](https://github.com/adolfintel/OpenPods) | stars:614⭐️ | The Free and Open Source app for monitoring your AirPods on Android | 
 | [daily](https://github.com/pwstrick/daily) | stars:1588⭐️ | 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端） | 
 | [deno-tutorial](https://github.com/hylerrix/deno-tutorial) | stars:789⭐️ | :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发 | 
@@ -814,10 +817,10 @@ Updated every Monday.
 | [iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) | stars:1243⭐️ | API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析) | 
 | [vue-website](https://github.com/IFmiss/vue-website) | stars:399⭐️ | :cake: 想用vue把我现在的个人网站重新写一下，新的风格，新的技术，什么都是新的！ | 
 | [nps](https://github.com/ehang-io/nps) | stars:22692⭐️ | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. | 
-| [iCSS](https://github.com/chokcoco/iCSS) | stars:13568⭐️ | 不止于 CSS | 
+| [iCSS](https://github.com/chokcoco/iCSS) | stars:13569⭐️ | 不止于 CSS | 
 | [flutter-do](https://github.com/LaoMengFlutter/flutter-do) | stars:2209⭐️ | 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。 | 
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | stars:24319⭐️ | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) | 
-| [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | stars:26448⭐️ | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 | 
+| [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | stars:26449⭐️ | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 | 
 | [PandaOCR](https://github.com/miaomiaosoft/PandaOCR) | stars:4497⭐️ | PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码 | 
 | [vue-objccn](https://github.com/halfrost/vue-objccn) | stars:2001⭐️ | 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用 | 
 | [deit](https://github.com/facebookresearch/deit) | stars:2969⭐️ | Official DeiT repository | 
@@ -833,7 +836,7 @@ Updated every Monday.
 | [vue-quick-start](https://github.com/wangrongding/vue-quick-start) | stars:3⭐️ | vue-quick-start | 
 | [qr-baker](https://github.com/Ovilia/qr-baker) | stars:13⭐️ | Generate images with different QR codes in batch and track clicks for each | 
 | [coturn](https://github.com/coturn/coturn) | stars:8144⭐️ | coturn TURN server project | 
-| [curl](https://github.com/curl/curl) | stars:26425⭐️ | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | 
+| [curl](https://github.com/curl/curl) | stars:26424⭐️ | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | 
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | stars:56658⭐️ | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 
 | [xbmc](https://github.com/xbmc/xbmc) | stars:14312⭐️ | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | 
 | [lightproxy](https://github.com/alibaba/lightproxy) | stars:2709⭐️ | 💎 Cross platform Web debugging proxy | 
@@ -864,11 +867,11 @@ Updated every Monday.
 | [vue2-elm](https://github.com/wangrongding/vue2-elm) | stars:3⭐️ | 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 | 
 | [excalidraw](https://github.com/wangrongding/excalidraw) | stars:3⭐️ | Virtual whiteboard for sketching hand-drawn like diagrams | 
 | [node-lessons](https://github.com/alsotang/node-lessons) | stars:16434⭐️ | :closed_book:《Node.js 包教不包会》 by alsotang | 
-| [aseprite](https://github.com/aseprite/aseprite) | stars:18469⭐️ | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 
+| [aseprite](https://github.com/aseprite/aseprite) | stars:18468⭐️ | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 
 | [Data-Pixels](https://github.com/gmattie/Data-Pixels) | stars:2506⭐️ | Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application. | 
 | [piskel](https://github.com/piskelapp/piskel) | stars:8942⭐️ | A simple web-based tool for Spriting and Pixel art. | 
 | [gogs](https://github.com/gogs/gogs) | stars:40808⭐️ | Gogs is a painless self-hosted Git service | 
-| [excalidraw](https://github.com/excalidraw/excalidraw) | stars:32332⭐️ | Virtual whiteboard for sketching hand-drawn like diagrams | 
+| [excalidraw](https://github.com/excalidraw/excalidraw) | stars:32333⭐️ | Virtual whiteboard for sketching hand-drawn like diagrams | 
 | [lazykube](https://github.com/TNK-Studio/lazykube) | stars:465⭐️ | ⎈ The lazier way to manage kubernetes. | 
 | [novel](https://github.com/201206030/novel) | stars:3259⭐️ | novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。 | 
 | [blockly](https://github.com/google/blockly) | stars:10562⭐️ | The web-based visual programming editor. | 
@@ -882,14 +885,14 @@ Updated every Monday.
 | [SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) | stars:4371⭐️ | Watch YouTube videos on your TV and set-top-box with comfort | 
 | [webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) | stars:837⭐️ | 中文翻译 《 Real-Time Communication with WebRTC 》 | 
 | [GitHub520](https://github.com/521xueweihan/GitHub520) | stars:12664⭐️ | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | 
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | stars:58747⭐️ | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | stars:58748⭐️ | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 
 | [upptime](https://github.com/upptime/upptime) | stars:11680⭐️ | ⬆️ Free uptime monitor and status page powered by GitHub | 
 | [examples](https://github.com/pytorch/examples) | stars:18856⭐️ | A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. | 
-| [EasyOCR](https://github.com/JaidedAI/EasyOCR) | stars:15677⭐️ | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 
+| [EasyOCR](https://github.com/JaidedAI/EasyOCR) | stars:15678⭐️ | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 
 | [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | stars:5674⭐️ | :ant:前端面试复习笔记 | 
-| [winapps](https://github.com/Fmstrat/winapps) | stars:6595⭐️ | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. | 
+| [winapps](https://github.com/Fmstrat/winapps) | stars:6596⭐️ | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. | 
 | [TRTCSDK](https://github.com/tencentyun/TRTCSDK) | stars:1189⭐️ | 腾讯云TRTC音视频服务，国内下载镜像： | 
-| [core-js](https://github.com/zloirock/core-js) | stars:17254⭐️ | Standard Library | 
+| [core-js](https://github.com/zloirock/core-js) | stars:17255⭐️ | Standard Library | 
 | [go-gogs-client](https://github.com/gogs/go-gogs-client) | stars:224⭐️ | Gogs API client in Go. | 
 | [jenkins-zh](https://github.com/jenkins-zh/jenkins-zh) | stars:233⭐️ | Jenkins 中文社区网站源码 | 
 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | stars:3751⭐️ | the CS missing semester Chinese version | 
@@ -903,7 +906,7 @@ Updated every Monday.
 | [APlayer](https://github.com/DIYgod/APlayer) | stars:6273⭐️ | :lollipop: Wow, such a beautiful HTML5 music player | 
 | [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) | stars:4351⭐️ | [全文]如何正确的学习Node.js | 
 | [AutoType](https://github.com/mqyqingfeng/AutoType) | stars:89⭐️ | 原生 JavaScript 实现的自动打字效果。 | 
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | stars:45292⭐️ | :zap: Dynamically generated stats for your github readmes | 
+| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | stars:45294⭐️ | :zap: Dynamically generated stats for your github readmes | 
 | [wechat.js](https://github.com/sofish/wechat.js) | stars:926⭐️ | 微信相关的 js 操作：分享、网络、菜单 | 
 | [vue2-elm](https://github.com/bailicangdu/vue2-elm) | stars:38954⭐️ | Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 | 
 | [wxpy](https://github.com/youfou/wxpy) | stars:13333⭐️ | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | 
@@ -914,7 +917,7 @@ Updated every Monday.
 | [ScreenSnow](https://github.com/plter/ScreenSnow) | stars:9⭐️ | HTML5跨平台桌面下雪效果 | 
 | [yarn](https://github.com/yarnpkg/yarn) | stars:40818⭐️ | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | 
 | [HackBGRT](https://github.com/Metabolix/HackBGRT) | stars:1170⭐️ | Windows boot logo changer for UEFI systems | 
-| [element-plus](https://github.com/element-plus/element-plus) | stars:16910⭐️ | 🎉 A Vue.js 3 UI Library made by Element team | 
+| [element-plus](https://github.com/element-plus/element-plus) | stars:16912⭐️ | 🎉 A Vue.js 3 UI Library made by Element team | 
 | [RSSAid](https://github.com/LeetaoGoooo/RSSAid) | stars:454⭐️ | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App | 
 | [AR.js](https://github.com/AR-js-org/AR.js) | stars:3918⭐️ | Image tracking, Location Based AR, Marker tracking. All on the Web. | 
 | [Depix](https://github.com/beurtschipper/Depix) | stars:22691⭐️ | Recovers passwords from pixelized screenshots | 
@@ -929,7 +932,7 @@ Updated every Monday.
 | [bubbly-bg](https://github.com/tipsy/bubbly-bg) | stars:1571⭐️ | Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped) | 
 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | stars:19619⭐️ | Tool for visualizing GitHub profiles | 
 | [awesome-spider](https://github.com/facert/awesome-spider) | stars:17881⭐️ | 爬虫集合 | 
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | stars:46053⭐️ | 👽 Open source API development ecosystem - https://hoppscotch.io | 
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | stars:46055⭐️ | 👽 Open source API development ecosystem - https://hoppscotch.io | 
 | [sparrow-js](https://github.com/wangrongding/sparrow-js) | stars:3⭐️ | 小巧的Sparrow.js,超出你想象! | 
 | [sparrow-meeting](https://github.com/wangrongding/sparrow-meeting) | stars:3⭐️ | WebRTC based Web end multi - person video and audio conferencing, suitable for distance education, medical collaboration, multi - person chat, multi - person meeting, remote assistance, etc(基于webRTC的Web端多人视频音频会议,适用于远程教育,医疗协同,多人聊天,多人会议,远程协助等) | 
 | [hamburgers](https://github.com/jonsuh/hamburgers) | stars:6728⭐️ | Tasty CSS-animated Hamburgers | 
@@ -943,7 +946,7 @@ Updated every Monday.
 | [mkcert](https://github.com/FiloSottile/mkcert) | stars:36561⭐️ | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | 
 | [workerman](https://github.com/walkor/workerman) | stars:10037⭐️ | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=5.4. | 
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | stars:6097⭐️ | A simple and composable way to validate data in JavaScript (and TypeScript). | 
-| [SkyAR](https://github.com/jiupinjia/SkyAR) | stars:1895⭐️ | Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800. | 
+| [SkyAR](https://github.com/jiupinjia/SkyAR) | stars:1896⭐️ | Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800. | 
 | [slate](https://github.com/ianstormtaylor/slate) | stars:25250⭐️ | A completely customizable framework for building rich text editors. (Currently in beta.) | 
 | [stylus](https://github.com/stylus/stylus) | stars:10939⭐️ | Expressive, robust, feature-rich CSS language built for nodejs | 
 | [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) | stars:20090⭐️ | A Foundation for Scalable Cross-Platform Apps | 
@@ -954,7 +957,7 @@ Updated every Monday.
 | [gallery-dl](https://github.com/mikf/gallery-dl) | stars:5472⭐️ | Command-line program to download image galleries and collections from several image hosting sites | 
 | [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | stars:7886⭐️ | 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？  | 
 | [adapter](https://github.com/webrtc/adapter) | stars:869⭐️ | READ ONLY FORK: Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release: | 
-| [x-render](https://github.com/alibaba/x-render) | stars:4940⭐️ | 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 | 
+| [x-render](https://github.com/alibaba/x-render) | stars:4942⭐️ | 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 | 
 | [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) | stars:11761⭐️ | 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) | 
 | [InfoSpider](https://github.com/kangvcar/InfoSpider) | stars:6222⭐️ | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 | 
 | [Python](https://github.com/wangrongding/Python) | stars:4⭐️ | Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机 | 
@@ -964,16 +967,16 @@ Updated every Monday.
 | [wangEditor](https://github.com/wangeditor-team/wangEditor) | stars:14346⭐️ | wangEditor —— 开源 Web 富文本编辑器 | 
 | [tinymce](https://github.com/tinymce/tinymce) | stars:11856⭐️ | The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular | 
 | [xgplayer](https://github.com/bytedance/xgplayer) | stars:5528⭐️ | A HTML5 video player with a parser that saves traffic | 
-| [flv.js](https://github.com/bilibili/flv.js) | stars:21440⭐️ | HTML5 FLV Player | 
+| [flv.js](https://github.com/bilibili/flv.js) | stars:21441⭐️ | HTML5 FLV Player | 
 | [wttr.in](https://github.com/chubin/wttr.in) | stars:19359⭐️ | :partly_sunny: The right way to check the weather | 
 | [cnblog-mouse](https://github.com/shuiche-it/cnblog-mouse) | stars:99⭐️ | 博客园鼠标特效.  Demo 地址 | 
 | [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) | stars:2257⭐️ | 🌡 A highly customized slider component | 
 | [lung_nodule_detector](https://github.com/xairc/lung_nodule_detector) | stars:74⭐️ | lung nodule detector using 3d resnet using focal loss | 
 | [better-scroll](https://github.com/ustbhuangyi/better-scroll) | stars:15727⭐️ | :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance | 
-| [dayjs](https://github.com/iamkun/dayjs) | stars:40097⭐️ | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | 
+| [dayjs](https://github.com/iamkun/dayjs) | stars:40099⭐️ | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | 
 | [vtk-js](https://github.com/Kitware/vtk-js) | stars:880⭐️ | Visualization Toolkit for the Web | 
-| [vue](https://github.com/vuejs/vue) | stars:199018⭐️ | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | stars:352392⭐️ | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 
+| [vue](https://github.com/vuejs/vue) | stars:199020⭐️ | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | stars:352394⭐️ | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 
 | [portainer](https://github.com/portainer/portainer) | stars:22773⭐️ | Making Docker and Kubernetes management easy. | 
 | [d3](https://github.com/d3/d3) | stars:102556⭐️ | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | stars:32902⭐️ | The communications platform that puts data protection first. | 
@@ -982,14 +985,14 @@ Updated every Monday.
 | [favico.js](https://github.com/ejci/favico.js) | stars:8728⭐️ | Make use of your favicon with badges, images or videos | 
 | [husky](https://github.com/typicode/husky) | stars:27508⭐️ | Git hooks made easy 🐶 woof! | 
 | [lerna](https://github.com/lerna/lerna) | stars:33462⭐️ | :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository. | 
-| [core](https://github.com/vuejs/core) | stars:32317⭐️ | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 
+| [core](https://github.com/vuejs/core) | stars:32318⭐️ | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 
 | [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) | stars:12431⭐️ | 🏆 Swiper component for @vuejs | 
 | [benz-amr-recorder](https://github.com/wangrongding/benz-amr-recorder) | stars:3⭐️ | Play, record, reformat AMR audio | 
 | [benz-amr-recorder](https://github.com/BenzLeung/benz-amr-recorder) | stars:264⭐️ | Play, record, reformat AMR audio | 
 | [NeteaseMusicWxMiniApp](https://github.com/sqaiyan/NeteaseMusicWxMiniApp) | stars:1225⭐️ | 仿网易云音乐APP的微信小程序 | 
 | [neteasemusic](https://github.com/sqaiyan/neteasemusic) | stars:367⭐️ | Vue版仿网易云音乐ios端web spa | 
 | [electron-cloud-music](https://github.com/disoul/electron-cloud-music) | stars:617⭐️ |  网易云音乐 Electron  客户端 | 
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | stars:101989⭐️ | Short JavaScript code snippets for all your development needs | 
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | stars:101990⭐️ | Short JavaScript code snippets for all your development needs | 
 | [pinyinjs](https://github.com/gaowanliang/pinyinjs) | stars:1⭐️ | 一个实现汉字与拼音互转的小巧web工具库，演示地址： | 
 | [NMSL](https://github.com/gaowanliang/NMSL) | stars:405⭐️ | 一个纯前端的抽象话转换器 | 
 | [face-api.js](https://github.com/justadudewhohacks/face-api.js) | stars:14118⭐️ | JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js | 
@@ -998,27 +1001,27 @@ Updated every Monday.
 | [flukit](https://github.com/flutterchina/flukit) | stars:4409⭐️ |  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator... | 
 | [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) | stars:578⭐️ | Generate a 3D image from a book cover and export to HTML/CSS to embed on your website. | 
 | [fks](https://github.com/JacksonTian/fks) | stars:17142⭐️ | 前端技能汇总 Frontend Knowledge Structure | 
-| [color-thief](https://github.com/lokesh/color-thief) | stars:10978⭐️ | Grab the color palette from an image using just Javascript.  Works in the browser and in Node. | 
+| [color-thief](https://github.com/lokesh/color-thief) | stars:10979⭐️ | Grab the color palette from an image using just Javascript.  Works in the browser and in Node. | 
 | [colorcube-js](https://github.com/amonks/colorcube-js) | stars:76⭐️ | Dominant color extraction from RGB images—DOM port of Ole Krause-Sparman's algorithm | 
 | [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) | stars:6566⭐️ | 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent. | 
 | [rgbaster.js](https://github.com/briangonzalez/rgbaster.js) | stars:1662⭐️ | 🎨 A simple library for extracting dominant colors from images. | 
 | [Mosaic-Pattern](https://github.com/nanlou-zc/Mosaic-Pattern) | stars:9⭐️ | 马赛克拼图，将一张照片用很多小的图片代替，形成马赛克效果，又可以看到原图大概是什么样 | 
 | [whistle](https://github.com/avwo/whistle) | stars:10979⭐️ | HTTP, HTTP2, HTTPS, Websocket debugging proxy | 
 | [pdf.js](https://github.com/mozilla/pdf.js) | stars:39740⭐️ | PDF Reader in JavaScript | 
-| [responsively-app](https://github.com/responsively-org/responsively-app) | stars:17484⭐️ | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. | 
+| [responsively-app](https://github.com/responsively-org/responsively-app) | stars:17483⭐️ | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. | 
 | [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) | stars:3563⭐️ | A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455) | 
 | [pose-animator](https://github.com/yemount/pose-animator) | stars:8486⭐️ | null | 
 | [Blog](https://github.com/mqyqingfeng/Blog) | stars:27946⭐️ | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 | 
 | [blog](https://github.com/yygmind/blog) | stars:10003⭐️ | 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ | 
 | [N-blog](https://github.com/nswbmw/N-blog) | stars:15136⭐️ | 《一起学 Node.js》 | 
 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | stars:20350⭐️ | 一个基于 electron 的音乐软件 | 
-| [tiptap](https://github.com/ueberdosis/tiptap) | stars:16261⭐️ | The headless editor framework for web artisans. | 
+| [tiptap](https://github.com/ueberdosis/tiptap) | stars:16262⭐️ | The headless editor framework for web artisans. | 
 | [til](https://github.com/jbranchaud/til) | stars:10700⭐️ | :memo: Today I Learned | 
 | [node-elm](https://github.com/bailicangdu/node-elm) | stars:11658⭐️ | Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统 | 
 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | stars:54993⭐️ | A C# port of shadowsocks | 
 | [electron-ssr-backup](https://github.com/qingshuisiyuan/electron-ssr-backup) | stars:5548⭐️ | electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜 | 
 | [MusicVisualizer-WebAudioAPI](https://github.com/loosenRogers/MusicVisualizer-WebAudioAPI) | stars:76⭐️ | 通过Web Audio API实现音频可视化 | 
-| [wechaty](https://github.com/wechaty/wechaty) | stars:13361⭐️ | Conversational RPA SDK for Chatbot Makers | 
+| [wechaty](https://github.com/wechaty/wechaty) | stars:13362⭐️ | Conversational RPA SDK for Chatbot Makers | 
 | [wechatBot](https://github.com/leochen-g/wechatBot) | stars:1778⭐️ | 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 | 
 | [omi](https://github.com/Tencent/omi) | stars:12381⭐️ |  Front End Cross-Frameworks Framework - 前端跨框架框架 | 
 | [taro](https://github.com/NervJS/taro) | stars:31529⭐️ | 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/ | 
