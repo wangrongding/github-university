@@ -9,15 +9,23 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout code repository
+      - name: Checkout code repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
-      - name: setup node.js
+      - name: Setup node.js
         uses: actions/setup-node@v2
         with:
           node-version: 16
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.2.2
+        with:
+          version: 7
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Update README
         run: node index.js ${{ secrets.GIT_UPDATE_README_TOKEN }}
