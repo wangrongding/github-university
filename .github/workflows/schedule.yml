@@ -31,6 +31,10 @@ jobs:
       # 配置 git
       - name: config git
         run: git config --global user.email "wangrongding@qq.com" && git config --global user.name "wangrongding"
+        
+      - name: Set git remote url
+        run: git remote set-url origin https://github.com/wangrongding/github-university.git
+
       - name: stage changed files
         run: git add .
       - name: commit changed files
