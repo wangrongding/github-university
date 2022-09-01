@@ -1,10 +1,7 @@
 name: Update gist with WakaTime stats
 on:
   schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
+    - cron: "* * * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -30,13 +27,15 @@ jobs:
       - name: Update README
         run: node index.js ${{ secrets.GIT_UPDATE_README_TOKEN }}
 
-      - name: Update Readme
-        # https://github.com/changesets/action
-        uses: changesets/action@v1
-        with:
-          commit: "chore: update versions"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GIT_UPDATE_README_TOKEN }}
+      # 配置 git
+      - name: config git
+        run: git config --global user.email "wangrongding@qq.com" && git config --global user.name "wangrongding"
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Update README"
+      - name: push code to main
+        run: git push origin main
 
       - name: Keepalive Workflow
         uses: gautamkrishnar/keepalive-workflow@1.0.9
