@@ -11,6 +11,6 @@ Updated every Monday.
 
 ## 优质的学习资源，好用的工具，有趣的项目...
 
-| name/url                                                               | stars        | desc                      |
-| ---------------------------------------------------------------------- | ------------ | ------------------------- |
-| [github-university](https://github.com/wangrongding/github-university) | stars: ∞ ⭐️ | Haha, this is the project |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name/url&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | desc                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [github-university](https://github.com/wangrongding/github-university)                                                                                   | stars: ∞ ⭐️                                                                                                                  | Haha, this is the project |
