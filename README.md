@@ -36,7 +36,7 @@ Updated every Monday.
 | [node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) | stars:1369⭐️ | A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled | 
 | [AppWorks](https://github.com/apptools-lab/AppWorks) | stars:902⭐️ | 🐻  基于 VS Code 插件的前端研发工具集，站点国内镜像：https://apptools.gitee.io | 
 | [big-react](https://github.com/BetaSu/big-react) | stars:2759⭐️ | 跟着我，从0实现React18 | 
-| [yew](https://github.com/yewstack/yew) | stars:26341⭐️ | Rust / Wasm framework for building client web apps | 
+| [yew](https://github.com/yewstack/yew) | stars:26340⭐️ | Rust / Wasm framework for building client web apps | 
 | [lute](https://github.com/88250/lute) | stars:823⭐️ | 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.  | 
 | [prosemirror](https://github.com/ProseMirror/prosemirror) | stars:6339⭐️ | The ProseMirror WYSIWYM editor | 
 | [wallpaper-box](https://github.com/wangrongding/wallpaper-box) | stars:123⭐️ | 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.) | 
@@ -77,7 +77,7 @@ Updated every Monday.
 | [electron-multi-monitor](https://github.com/pvrobays/electron-multi-monitor) | stars:22⭐️ | Create multi monitor applications using web development | 
 | [bilibili-live-ws](https://github.com/simon300000/bilibili-live-ws) | stars:236⭐️ | Bilibili live WebSocket/tcp API | 
 | [awesome-compose](https://github.com/docker/awesome-compose) | stars:21328⭐️ | Awesome Docker Compose samples | 
-| [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | stars:2378⭐️ | 🏂🏻 程序员海外工作/英文面试手册 | 
+| [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | stars:2379⭐️ | 🏂🏻 程序员海外工作/英文面试手册 | 
 | [node-usb](https://github.com/node-usb/node-usb) | stars:1361⭐️ | Improved USB library for Node.js | 
 | [js-ml](https://github.com/scarsu/js-ml) | stars:6⭐️ | 前端机器学习入门、来源https://coding.imooc.com/lesson/408.html 、笔记https://www.scarsu.com/categories/ml/ | 
 | [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | stars:14504⭐️ | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | 
@@ -91,7 +91,7 @@ Updated every Monday.
 | [wallpaper](https://github.com/sindresorhus/wallpaper) | stars:932⭐️ | Manage the desktop wallpaper | 
 | [Green-Wall](https://github.com/Codennnn/Green-Wall) | stars:274⭐️ | :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat: | 
 | [minimatch](https://github.com/isaacs/minimatch) | stars:2894⭐️ | a glob matcher in javascript | 
-| [awesome-react-components](https://github.com/brillout/awesome-react-components) | stars:34603⭐️ | Curated List of React Components & Libraries. | 
+| [awesome-react-components](https://github.com/brillout/awesome-react-components) | stars:34604⭐️ | Curated List of React Components & Libraries. | 
 | [inkpaint](https://github.com/drawcall/inkpaint) | stars:181⭐️ | InkPaint is a lightweight node.js canvas graphics library | 
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | stars:15978⭐️ | Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. | 
 | [web-see](https://github.com/xy-sea/web-see) | stars:346⭐️ | 一款自研的前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据 | 
@@ -101,7 +101,7 @@ Updated every Monday.
 | [WebVR-Audio-Visualizer](https://github.com/todaylg/WebVR-Audio-Visualizer) | stars:34⭐️ | A WebVR Audio Visualizer,Basic on Aframe and Web Audio API | 
 | [substrate](https://github.com/paritytech/substrate) | stars:7908⭐️ | Substrate: The platform for blockchain innovators | 
 | [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) | stars:772⭐️ | 🌐 Google 翻译 Mac 客户端 | 
-| [exceljs](https://github.com/exceljs/exceljs) | stars:10693⭐️ | Excel Workbook Manager | 
+| [exceljs](https://github.com/exceljs/exceljs) | stars:10694⭐️ | Excel Workbook Manager | 
 | [nocobase](https://github.com/nocobase/nocobase) | stars:3972⭐️ | NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.  | 
 | [redredstar](https://github.com/xland/redredstar) | stars:1347⭐️ | RedRedStar个人信息管理工具 | 
 | [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) | stars:2968⭐️ | A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code. | 
@@ -133,7 +133,7 @@ Updated every Monday.
 | [wechat-bot](https://github.com/wangrongding/wechat-bot) | stars:2254⭐️ | 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... | 
 | [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | stars:27038⭐️ | This repo includes ChatGPT prompt curation to use ChatGPT better. | 
 | [nodejieba](https://github.com/yanyiwu/nodejieba) | stars:2681⭐️ | "结巴"中文分词的Node.js版本 | 
-| [ChatGPT](https://github.com/lencx/ChatGPT) | stars:14897⭐️ | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 
+| [ChatGPT](https://github.com/lencx/ChatGPT) | stars:14898⭐️ | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 
 | [unplugin](https://github.com/unjs/unplugin) | stars:1781⭐️ | Unified plugin system for Vite, Rollup, Webpack, and more | 
 | [chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) | stars:164⭐️ | ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题 | 
 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | stars:10244⭐️ | A browser extension that enhance search engines with ChatGPT | 
@@ -198,7 +198,7 @@ Updated every Monday.
 | [web-vitals](https://github.com/GoogleChrome/web-vitals) | stars:5802⭐️ | Essential metrics for a healthy site. | 
 | [pirates](https://github.com/danez/pirates) | stars:363⭐️ | Properly hijack require | 
 | [bilibili_checkin](https://github.com/arcturus-script/bilibili_checkin) | stars:185⭐️ | 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到 | 
-| [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | stars:20272⭐️ | Checklist of the most important security countermeasures when designing, testing, and releasing your API | 
+| [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | stars:20273⭐️ | Checklist of the most important security countermeasures when designing, testing, and releasing your API | 
 | [old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) | stars:436⭐️ | Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation. | 
 | [googlevoice](https://github.com/ssnhd/googlevoice) | stars:1519⭐️ | 注册 Google Voice 号码详细步骤 | 
 | [quark-design](https://github.com/hellof2e/quark-design) | stars:1431⭐️ | Next generation frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。) | 
@@ -237,7 +237,7 @@ Updated every Monday.
 | [obs-studio](https://github.com/obsproject/obs-studio) | stars:45715⭐️ | OBS Studio - Free and open source software for live streaming and screen recording | 
 | [live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) | stars:540⭐️ | :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读 | 
 | [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | stars:7860⭐️ | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | 
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | stars:33321⭐️ | Stable Diffusion web UI | 
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | stars:33324⭐️ | Stable Diffusion web UI | 
 | [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) | stars:634⭐️ | 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates. | 
 | [pont](https://github.com/alibaba/pont) | stars:2840⭐️ | 🌉数据服务层解决方案 | 
 | [folder-print](https://github.com/wangrongding/folder-print) | stars:7⭐️ | 🌿快速生成文件夹目录结构，支持定义目录层级，支持生成到 markdown 文件。 | 
@@ -398,7 +398,7 @@ Updated every Monday.
 | [canvas-special](https://github.com/bxm0927/canvas-special) | stars:2056⭐️ | :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。 | 
 | [CyberChef](https://github.com/gchq/CyberChef) | stars:20249⭐️ | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | 
 | [100ms-web](https://github.com/100mslive/100ms-web) | stars:120⭐️ | A conferencing and streaming UI built with 100ms SDK. | 
-| [astro](https://github.com/withastro/astro) | stars:27181⭐️ | Build faster websites with Astro's next-gen island architecture 🏝✨ | 
+| [astro](https://github.com/withastro/astro) | stars:27182⭐️ | Build faster websites with Astro's next-gen island architecture 🏝✨ | 
 | [grex-js](https://github.com/pemistahl/grex-js) | stars:166⭐️ | A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases | 
 | [million](https://github.com/aidenybai/million) | stars:5527⭐️ | Virtual DOM into the future! 🔟🔼6️⃣ | 
 | [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) | stars:516⭐️ | A javascript-only SVG to PDF conversion utility that runs in the browser. Brought to you by yWorks - the diagramming experts | 
@@ -451,7 +451,7 @@ Updated every Monday.
 | [vue-super-admin](https://github.com/wangrongding/vue-super-admin) | stars:5⭐️ |  一个适用于个人 ，团队协同开发的 vue3.2👆 管理后台模板。（简单，简洁） | 
 | [vscode-iconify](https://github.com/antfu/vscode-iconify) | stars:233⭐️ | 🙂 Iconify IntelliSense for VS Code | 
 | [oldest](https://github.com/bpceee/oldest) | stars:51⭐️ | Go to the oldest page of commits. | 
-| [bun](https://github.com/oven-sh/bun) | stars:38926⭐️ | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | 
+| [bun](https://github.com/oven-sh/bun) | stars:38927⭐️ | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | 
 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | stars:9797⭐️ | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 | 
 | [vscode-vsce](https://github.com/microsoft/vscode-vsce) | stars:582⭐️ | VS Code Extension Manager | 
 | [examples](https://github.com/PlasmoHQ/examples) | stars:137⭐️ | 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools | 
@@ -542,8 +542,8 @@ Updated every Monday.
 | [electron-store](https://github.com/sindresorhus/electron-store) | stars:3921⭐️ | Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc | 
 | [electron-debug](https://github.com/sindresorhus/electron-debug) | stars:720⭐️ | Adds useful debug features to your Electron app | 
 | [core](https://github.com/stackblitz/core) | stars:9695⭐️ | Online IDE powered by Visual Studio Code ⚡️ | 
-| [proposals](https://github.com/tc39/proposals) | stars:16463⭐️ | Tracking ECMAScript Proposals | 
-| [TypeScript](https://github.com/microsoft/TypeScript) | stars:88530⭐️ | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 
+| [proposals](https://github.com/tc39/proposals) | stars:16464⭐️ | Tracking ECMAScript Proposals | 
+| [TypeScript](https://github.com/microsoft/TypeScript) | stars:88531⭐️ | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 
 | [electron-reload](https://github.com/yan-foto/electron-reload) | stars:503⭐️ | Simplest (:pray:) way to reload an electron app on file changes! | 
 | [ant-design](https://github.com/ant-design/ant-design) | stars:84379⭐️ | An enterprise-class UI design language and React UI library | 
 | [customize-cra](https://github.com/arackaf/customize-cra) | stars:2689⭐️ | Override webpack configurations for create-react-app 2.0 | 
@@ -617,7 +617,7 @@ Updated every Monday.
 | [WASM-ImageMagick](https://github.com/KnicKnic/WASM-ImageMagick) | stars:709⭐️ | Webassembly compilation of https://github.com/ImageMagick/ImageMagick & samples | 
 | [nutui](https://github.com/jdf2e/nutui) | stars:5079⭐️ | 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web) | 
 | [F2](https://github.com/antvis/F2) | stars:7787⭐️ | 📱📈An elegant, interactive and flexible charting library for mobile. | 
-| [mitt](https://github.com/developit/mitt) | stars:8556⭐️ | 🥊 Tiny 200 byte functional event emitter / pubsub. | 
+| [mitt](https://github.com/developit/mitt) | stars:8557⭐️ | 🥊 Tiny 200 byte functional event emitter / pubsub. | 
 | [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) | stars:7716⭐️ | ⚡️ Blazing fast scrolling for any amount of data | 
 | [webext-bridge](https://github.com/zikaari/webext-bridge) | stars:310⭐️ | Messaging in Web Extensions made super easy. Out of the box. | 
 | [Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) | stars:872⭐️ | A collection of awesome projects using PicGo. | 
@@ -692,7 +692,7 @@ Updated every Monday.
 | [awesome-nlp](https://github.com/keon/awesome-nlp) | stars:14280⭐️ | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | stars:13896⭐️ | A curated list of awesome READMEs | 
 | [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | stars:10979⭐️ | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | 
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | stars:69719⭐️ | Papers from the computer science community to read and discuss. | 
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | stars:69720⭐️ | Papers from the computer science community to read and discuss. | 
 | [awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs) | stars:828⭐️ | A curated list of awesome Cycle.js resources | 
 | [awesome](https://github.com/sindresorhus/awesome) | stars:238878⭐️ | 😎 Awesome lists about all kinds of interesting topics | 
 | [public-apis](https://github.com/public-apis/public-apis) | stars:228228⭐️ | A collective list of free APIs | 
@@ -892,7 +892,7 @@ Updated every Monday.
 | [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | stars:16033⭐️ | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ | 
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | stars:19361⭐️ | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. | 
 | [pixijs](https://github.com/pixijs/pixijs) | stars:38897⭐️ | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. | 
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | stars:189921⭐️ | Master programming by recreating your favorite technologies from scratch. | 
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | stars:189922⭐️ | Master programming by recreating your favorite technologies from scratch. | 
 | [canvas2video](https://github.com/welefen/canvas2video) | stars:194⭐️ | Convert dynamic canvas to video, support merge audio | 
 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | stars:9742⭐️ | FFmpeg for browser and node, powered by WebAssembly | 
 | [WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) | stars:1240⭐️ | 新浪微博图床 Chrome扩展 | 
@@ -1119,7 +1119,7 @@ Updated every Monday.
 | [my_blog](https://github.com/sanyuan0704/my_blog) | stars:1239⭐️ | 神三元的博客，一起构建完整知识体系 | 
 | [blind_watermark](https://github.com/guofei9987/blind_watermark) | stars:2847⭐️ | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | 
 | [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) | stars:4978⭐️ | A chrome extension for suspending all tabs to free up memory | 
-| [brave-browser](https://github.com/brave/brave-browser) | stars:14665⭐️ | Next generation Brave browser for Android, Linux, macOS, Windows. | 
+| [brave-browser](https://github.com/brave/brave-browser) | stars:14666⭐️ | Next generation Brave browser for Android, Linux, macOS, Windows. | 
 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | stars:49793⭐️ | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 | 
 | [refined-github](https://github.com/refined-github/refined-github) | stars:20323⭐️ | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 
 | [keycastr](https://github.com/keycastr/keycastr) | stars:9840⭐️ | KeyCastr, an open-source keystroke visualizer | 
@@ -1135,7 +1135,7 @@ Updated every Monday.
 | [storybook](https://github.com/storybookjs/storybook) | stars:76772⭐️ | Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  | 
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | stars:57845⭐️ | A curated list of awesome Machine Learning frameworks, libraries and software. | 
 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | stars:86501⭐️ | :white_check_mark:  The Node.js best practices list (November 2022) | 
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | stars:267115⭐️ | :books: Freely available programming books | 
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | stars:267116⭐️ | :books: Freely available programming books | 
 | [OpenPods](https://github.com/adolfintel/OpenPods) | stars:715⭐️ | The Free and Open Source app for monitoring your AirPods on Android | 
 | [daily](https://github.com/pwstrick/daily) | stars:1773⭐️ | 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端） | 
 | [deno-tutorial](https://github.com/hylerrix/deno-tutorial) | stars:798⭐️ | :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发 | 
@@ -1340,7 +1340,7 @@ Updated every Monday.
 | [Blog](https://github.com/mqyqingfeng/Blog) | stars:28986⭐️ | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 | 
 | [blog](https://github.com/yygmind/blog) | stars:10197⭐️ | 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ | 
 | [N-blog](https://github.com/nswbmw/N-blog) | stars:15233⭐️ | 《一起学 Node.js》 | 
-| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | stars:24241⭐️ | 一个基于 electron 的音乐软件 | 
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | stars:24242⭐️ | 一个基于 electron 的音乐软件 | 
 | [tiptap](https://github.com/ueberdosis/tiptap) | stars:18072⭐️ | The headless editor framework for web artisans. | 
 | [til](https://github.com/jbranchaud/til) | stars:10900⭐️ | :memo: Today I Learned | 
 | [node-elm](https://github.com/bailicangdu/node-elm) | stars:11848⭐️ | Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统 | 
@@ -1356,7 +1356,7 @@ Updated every Monday.
 | [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) | stars:7408⭐️ | NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序） | 
 | [vuePlugs_printjs](https://github.com/xyl66/vuePlugs_printjs) | stars:420⭐️ | vue打印插件 | 
 | [easy-mock-cli](https://github.com/easy-mock/easy-mock-cli) | stars:526⭐️ | Create api.js for Easy-Mock. https://easy-mock.github.io/easy-mock-cli/ | 
-| [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | stars:80706⭐️ | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 
+| [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | stars:80707⭐️ | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 
 | [tinymce-vue](https://github.com/tinymce/tinymce-vue) | stars:1734⭐️ | Official TinyMCE Vue component | 
 | [weapp-vue-eggjs-shop](https://github.com/wangrongding/weapp-vue-eggjs-shop) | stars:4⭐️ | 适用于日用品、干货等商城，pc管理端 + 微信小程序 + 后端服务 | 
 | [url](https://github.com/baacloud/url) | stars:2973⭐️ | Baacloud官网 | 
