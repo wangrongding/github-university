@@ -7,7 +7,7 @@ on: # 触发时机
     branches:
       - main
   schedule:
-    - cron: "0 0 * * 1,6,7" # 每周一，周六触发，也可以 0 0 * * MON,SAT
+    - cron: "0 0 * * MON,SAT,SUN" # 每周一，周六触发，也可以 0 0 * * 1,6
 jobs:
   update-readme:
     runs-on: ubuntu-latest
