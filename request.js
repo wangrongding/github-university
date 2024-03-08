@@ -1,7 +1,7 @@
 import axios from "axios";
 // 创建axios实例
 const request = axios.create({
-  timeout: 200000, // 请求超时时间
+  timeout: 60 * 1000, // 请求超时时间
 });
 // request请求拦截器
 request.interceptors.request.use(
