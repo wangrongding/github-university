@@ -26,7 +26,7 @@ jobs:
           version: 8
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --no-frozen-lockfile
 
       - name: Update README
         run: node index.js ${{ secrets.GIT_UPDATE_README_TOKEN }}
